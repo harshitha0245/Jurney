@@ -1,2 +1,20 @@
 # Jurney
-Jurney is a MERN stack travel booking app with real-time weather updates, expert tour guides, and personalized schedules. I optimized the UI with React.js, integrated interactive maps, and implemented secure authentication. The backend handles requests efficiently with Node.js, Express.js, and MongoDB.
+
+
+📝 Description
+
+Jurney is a MERN stack web application designed to simplify the process of exploring and booking tours. The platform features interactive maps, a seamless booking experience, and secure user authentication, enhancing the travel planning experience for users.
+
+
+🚀 Tech Stack
+
+Frontend: React JS, HTML, CSS
+
+Backend: Node.js, Express
+
+Database: MongoDB
+
+Authentication: JWT (JSON Web Token)
+
+Mapping API: External APIs for real-time map interactions
+
